@@ -1,8 +1,8 @@
 # public-notes
 
 ## Description
-This repository stores personal notes I have found useful.
-Updated summaries can be found on my 
+This repository stores personal notes I find useful.
+Summaries can be found on my 
  [personal website][personal-website]'s Notes tab.
 
 ## Submitting Feedback
