@@ -12,4 +12,4 @@ You may find an overview of all of them on my
  [personal website][personal-website] under the notes tab
 
 [issues-link]: https://github.com/RaviSoji/public-notes/issues
-[personl-website]: RaviSoji.com
+[personl-website]:  https://RaviSoji.com
