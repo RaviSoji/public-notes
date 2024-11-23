@@ -9,7 +9,7 @@ Thank you!
 ## Description
 This is a repository of personal notes I have found useful.
 You may find an overview of all of them on my 
- [personal website][personal-website] under the notes tab
+ [personal website][personal-website] under the notes tab.
 
 [issues-link]: https://github.com/RaviSoji/public-notes/issues
 [personal-website]: https://RaviSoji.com
