@@ -1,0 +1,13 @@
+name: ravi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda-forge::r-base
+  - conda-forge::python
+  - conda-forge::jupyterlab
+  - conda-forge::nb_conda_kernels
+  - conda-forge::r-irkernel
+  - conda-forge::r-argparse
+  - conda-forge::r-knitr
+  - conda-forge::r-rmarkdown
